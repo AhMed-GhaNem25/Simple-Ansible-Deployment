@@ -1,4 +1,4 @@
-# Simple Ansible Deployment Project
+# Ansible Deployment Project
 
 A simple Ansible project to automate the installation and deployment of a Node.js application on a remote server.
 
